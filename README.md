@@ -43,39 +43,6 @@
 
 ---
 
-### 💼 Hard Skills & 💖 Soft Skills
-
-<div align="center">
-  <img src="./5b12b903-a47e-421b-98cc-b15f8f1e53d5.png" width="140" alt="Totoro fofo" style="border-radius: 12px; margin-bottom: 12px;" />
-</div>
-
-<div align="center">
-  <div style="background-color:#4B1A1F; border-radius:15px; padding:20px; max-width: 700px; display: flex; justify-content: space-around; color: #FFB6C1; flex-wrap: wrap;">
-
-    <div style="flex: 1; min-width: 280px; padding: 10px;">
-      <h3 align="center">🌟 Hard Skills</h3>
-      <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-        <li>💻 Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
-        <li>🔗 APIs RESTful com Node.js</li>
-        <li>🗄️ Banco de Dados (MySQL)</li>
-        <li>⚙️ Programação com C#</li>
-        <li>🛠️ Controle de versão com Git</li>
-      </ul>
-    </div>
-
-    <div style="flex: 1; min-width: 280px; padding: 10px;">
-      <h3 align="center">🌸 Soft Skills</h3>
-      <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-        <li>💬 Comunicação Clara</li>
-        <li>🤝 Trabalho em Equipe</li>
-        <li>💖 Empatia & Escuta Ativa</li>
-        <li>📋 Organização e Planejamento</li>
-        <li>🚀 Facilidade em Aprender</li>
-      </ul>
-    </div>
-
-  </div>
-</div>
 
 
 ---
