@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;C%23,+JS+e+Node.js;React,+API+e+UI/UX;Ship+it+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px"/>
-</p>
-
 ---
 
 ### 🚀 Tech Stack
@@ -64,13 +60,3 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mellina-ship-it&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mellina-ship-it&color=F75C7E" alt="profile views" />
-</p>
