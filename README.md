@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="40" />
+=<h1 align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" />
   Oi, eu sou a Mellina
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" />
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFB7C5&center=true&vCenter=true&lines=Desenvolvedora+Fullstack+🌼;C%23,+JS,+Node.js,+React+🌸;Apaixonada+por+UI+fofa+e+código+limpo+✨" />
