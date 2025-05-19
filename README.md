@@ -1,16 +1,27 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120" />
+  <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
   Oi, eu sou a Mellina
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;C%23,+JS+e+Node.js;React,+API+e+UI/UX;Ship+it+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;🌸+C%23,+JS+e+Node.js;🌸+React,+API+e+UI/UX;🌸+Ship+it+🚀" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VV26b9rg8g/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4dWJ5eDJxY2R0Z3R0aHl1eHZ5a2I1Z2VnN3R4d2V4Z2h4dWZ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKRwmZqUMQvTnj2/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/3o7btR8F8RhdLQ3vU4/giphy.gif" width="200"/>
+</div>
+
+---
+
+### 🌸 Tech Stack
+<div align="center" style="background-color:#FFE6F0; padding:15px; border-radius:20px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
@@ -24,61 +35,53 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🎀 Sobre mim
 - 👩‍💻 Estudante de Ciências da Computação  
 - 🎮 Desenvolvo jogos e apps web  
 - 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
 - 🎨 Curto criar UIs modernas e simples  
-- 🚀 Foco em escrever código limpo e útil  
+- 🌸 Amante de animes e coisas fofas  
+- 😴 Adoro uma soneca de Pokémon style  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdwOEBqK8NO/giphy.gif" width="150"/>
+</div>
 
 ---
 
 ### 🧰 My Skills
 
-#### 👩‍💻 Main Stack
+#### 💝 Main Stack
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=c-sharp"/>
 </div>
 
-#### 🛢️ Databases
+#### 🎀 Frontend
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3"/>
 </div>
 
-#### 🛠️ Workstation Tools
+#### 🛏️ Databases
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
+  <img src="https://media.giphy.com/media/3o7aDcz2Mh6Y8xI0j6/giphy.gif" width="80" align="right"/>
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql"/>
 </div>
-
-#### 💻 Operating Systems
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RMc5Z9wCOr1sY/giphy.gif" width="160" /> <!-- Bulbasaur andando -->
-  <img src="https://media.giphy.com/media/LfNCDm1MkzG4U/giphy.gif" width="160" /> <!-- Eevee dormindo -->
-</p>
 
 ---
 
 ### 🔥 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=radical&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=radical&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=sakura&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=sakura&border_radius=10" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btRgySxjQE8vKd2/giphy.gif" width="200"/>
 </div>
 
 ---
@@ -86,19 +89,29 @@
 ### 🧩 Últimos Projetos
 
 - 🎮 **[Além do Túnel](https://github.com/Mellina-ship-it/Alem_do_tunel)**  
-  *Jogo interativo com finais diferentes, baseado em escolhas.*
+  *Jogo interativo com finais diferentes, baseado em escolhas.* 🌸
 
 - 🐾 **[AuMiauVet](https://github.com/Mellina-ship-it/AuMiauVet)**  
-  *Sistema completo para agendamentos de petshop com login, dashboard e gestão.*
+  *Sistema completo para agendamentos de petshop com login, dashboard e gestão.* 🐈
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌸 Onde me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF1493?style=for-the-flat&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-flat&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
 
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btT1T9qpDZA5hhu/giphy.gif" width="150"/>
+</div>
+
+<p align="center"> 
+  <img src="https://media.giphy.com/media/JUvI2c1d3qgWc/giphy.gif" width="120"/> 
+  <br/>
+  <i>Obrigado pela visita! 😴🌸</i>
+</p>
