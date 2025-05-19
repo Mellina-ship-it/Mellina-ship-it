@@ -39,33 +39,39 @@
 
 ---
 
+---
+
 ### 💼 Hard Skills & 💖 Soft Skills
+
 <div align="center">
-  <img src="./e4f99afa-c6b4-44a0-89e1-945b367d4301.png" width="150" alt="Totoro fofo" style="border-radius: 15px; margin-bottom: 10px" />
+  <img src="./8423c0e8-a73a-440e-86dd-8d594c8c422b.png" width="160" alt="Totoro fofo" style="border-radius: 15px;" />
 </div>
 
-<div align="center" style="background-color: #4B1A1F; padding: 30px; border-radius: 20px; color: #FFB6C1; max-width: 700px; margin: auto">
-  
-  <h3>🌟 Hard Skills</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li>💻 Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
-    <li>🔗 APIs RESTful com Node.js</li>
-    <li>🗄️ Banco de Dados (MySQL)</li>
-    <li>⚙️ Programação com C#</li>
-    <li>🔧 Controle de versão com Git</li>
-  </ul>
-
-  <br/>
-
-  <h3>🌸 Soft Skills</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li>💬 Comunicação Clara</li>
-    <li>🤝 Trabalho em Equipe</li>
-    <li>💖 Empatia & Escuta Ativa</li>
-    <li>📋 Organização e Planejamento</li>
-    <li>🚀 Facilidade em Aprender</li>
-  </ul>
-
+<div align="center">
+  <table style="background-color: #4B1A1F; border-radius: 15px; padding: 20px; width: 100%; max-width: 800px; color: #FFB6C1; margin-top: 15px;">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3>🌟 Hard Skills</h3>
+        <ul style="list-style: none; padding-left: 0;">
+          <li>💻 Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
+          <li>🔗 APIs RESTful com Node.js</li>
+          <li>🗄️ Banco de Dados (MySQL)</li>
+          <li>⚙️ Programação com C#</li>
+          <li>🛠️ Controle de versão com Git</li>
+        </ul>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3>🌸 Soft Skills</h3>
+        <ul style="list-style: none; padding-left: 0;">
+          <li>💬 Comunicação Clara</li>
+          <li>🤝 Trabalho em Equipe</li>
+          <li>💖 Empatia & Escuta Ativa</li>
+          <li>📋 Organização e Planejamento</li>
+          <li>🚀 Facilidade em Aprender</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
