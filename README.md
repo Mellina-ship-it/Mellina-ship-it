@@ -77,11 +77,11 @@
 
 ---
 
-### 🌸 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=rose_pine&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=rose_pine&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&hide_border=false&border_radius=10&title_color=FFC0CB&icon_color=FF69B4&text_color=FFB6C1&bg_color=ffffff&border_color=FFDDEE" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mellina-ship-it&layout=compact&hide_border=false&border_radius=10&title_color=FFC0CB&text_color=FFB6C1&bg_color=ffffff&border_color=FFDDEE" height="170"/>
 </div>
+
 
 ---
 
