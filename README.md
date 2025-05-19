@@ -30,7 +30,35 @@
 - 🎮 Desenvolvo jogos e apps web  
 - 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
 - 🎨 Curto criar UIs modernas e simples  
+- 🌸 Amante de animes e coisas fofas  
+- 😴 Adoro uma soneca estilo Pokémon  
 
+</div>
+
+---
+
+### 💼 Hard Skills & 💖 Soft Skills
+
+<div align="center" style="position: relative; background-color: #F8E1EC; padding: 25px; border-radius: 25px; border: 3px dashed #FFB6C1; color: #4B1A1F; margin: 20px 10px">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Totoro.jpeg" alt="Totoro" width="100" style="border-radius: 15px; margin-bottom: 10px"/>
+
+  <h3>🌟 Hard Skills</h3>
+  <ul>
+    <li>Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
+    <li>APIs RESTful com Node.js</li>
+    <li>Banco de Dados (MySQL)</li>
+    <li>Programação com C#</li>
+    <li>Controle de versão com Git</li>
+  </ul>
+
+  <h3>🌸 Soft Skills</h3>
+  <ul>
+    <li>Comunicação Clara</li>
+    <li>Trabalho em Equipe</li>
+    <li>Empatia & Escuta Ativa</li>
+    <li>Organização e Planejamento</li>
+    <li>Facilidade em Aprender</li>
+  </ul>
 </div>
 
 ---
@@ -57,10 +85,16 @@
 ---
 
 ### 🌸 Onde me encontrar
-<div align="center" style="background-color: #2A0F14; padding:15px; border-radius:20px; margin:10px">
+<div align="center" style="background-color: #2A0F14; padding:20px; border-radius:20px; margin:10px">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-FF1493?style=for-the-flat&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-flat&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
+<a href="https://www.linkedin.com/in/mellina-bizinoto-618081227/">
+  <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+<a href="mailto:bizinoto.mellina@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>
+<a href="https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1">
+  <img src="https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+</a>
 
 </div>
