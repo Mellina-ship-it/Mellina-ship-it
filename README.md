@@ -25,38 +25,30 @@
 ---
 
 ### 🧠 Sobre mim
-- 👩‍💻 Estudante de Ciências da Computação
-- 🎮 Desenvolvo jogos e apps web
-- 🛠️ Trabalho com backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)
-- 🎨 Curto criar UIs modernas e simples
-- 🚀 Foco em escrever código limpo e útil
+- 👩‍💻 Estudante de Ciências da Computação  
+- 🎮 Desenvolvo jogos e apps web  
+- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
+- 🎨 Curto criar UIs modernas e simples  
+- 🚀 Foco em escrever código limpo e útil  
 
 ---
 
-### 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=radical&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=radical&border_radius=10" height="170"/>
+### 🧰 My Skills
+
+#### 👩‍💻 Main Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
 </div>
 
----
-
-### 🧩 Últimos Projetos
-
-- 🎮 **[Além do Túnel](https://github.com/Mellina-ship-it/Alem_do_tunel)**  
-  *Jogo interativo com finais diferentes, baseado em escolhas.*
-
-- 🐾 **[AuMiauVet](https://github.com/Mellina-ship-it/AuMiauVet)**  
-  *Sistema completo para agendamentos de petshop com login, dashboard e gestão.*
-
----
-
-### 🌐 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
-
+#### 🛢️ Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
 </div>
+
+####
