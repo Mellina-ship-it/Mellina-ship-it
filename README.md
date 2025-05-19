@@ -79,8 +79,8 @@
 
 ### 🌸 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=rose_pine&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=rose_pine&border_radius=10" height="170"/>
 </div>
 
 ---
