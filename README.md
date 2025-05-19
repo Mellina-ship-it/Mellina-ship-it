@@ -14,14 +14,13 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VV26b9rg8g/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4dWJ5eDJxY2R0Z3R0aHl1eHZ5a2I1Z2VnN3R4d2V4Z2h4dWZ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKRwmZqUMQvTnj2/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/3o7btR8F8RhdLQ3vU4/giphy.gif" width="200"/>
 </div>
 
 ---
 
 ### 🌸 Tech Stack
-<div align="center" style="background-color:#FFE6F0; padding:15px; border-radius:20px">
+<div align="center" style="padding:15px; border-radius:20px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
@@ -67,7 +66,6 @@
 
 #### 🛏️ Databases
 <div>
-  <img src="https://media.giphy.com/media/3o7aDcz2Mh6Y8xI0j6/giphy.gif" width="80" align="right"/>
   <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql"/>
 </div>
@@ -76,12 +74,8 @@
 
 ### 🔥 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&theme=sakura&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&theme=sakura&border_radius=10" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btRgySxjQE8vKd2/giphy.gif" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&bg_color=FFF0F5&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&bg_color=FFF0F5&border_radius=10" height="170"/>
 </div>
 
 ---
@@ -105,13 +99,3 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-flat&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
 
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btT1T9qpDZA5hhu/giphy.gif" width="150"/>
-</div>
-
-<p align="center"> 
-  <img src="https://media.giphy.com/media/JUvI2c1d3qgWc/giphy.gif" width="120"/> 
-  <br/>
-  <i>Obrigado pela visita! 😴🌸</i>
-</p>
