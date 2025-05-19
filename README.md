@@ -37,28 +37,35 @@
 
 ---
 
+---
+
 ### 💼 Hard Skills & 💖 Soft Skills
+<div align="center">
+  <img src="./e4f99afa-c6b4-44a0-89e1-945b367d4301.png" width="150" alt="Totoro fofo" style="border-radius: 15px; margin-bottom: 10px" />
+</div>
 
-<div align="center" style="position: relative; background-color: #F8E1EC; padding: 25px; border-radius: 25px; border: 3px dashed #FFB6C1; color: #4B1A1F; margin: 20px 10px">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Totoro.jpeg" alt="Totoro" width="100" style="border-radius: 15px; margin-bottom: 10px"/>
-
+<div align="center" style="background-color: #4B1A1F; padding: 30px; border-radius: 20px; color: #FFB6C1; max-width: 700px; margin: auto">
+  
   <h3>🌟 Hard Skills</h3>
-  <ul>
-    <li>Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
-    <li>APIs RESTful com Node.js</li>
-    <li>Banco de Dados (MySQL)</li>
-    <li>Programação com C#</li>
-    <li>Controle de versão com Git</li>
+  <ul style="list-style: none; padding: 0;">
+    <li>💻 Desenvolvimento Web (HTML, CSS, JavaScript, React)</li>
+    <li>🔗 APIs RESTful com Node.js</li>
+    <li>🗄️ Banco de Dados (MySQL)</li>
+    <li>⚙️ Programação com C#</li>
+    <li>🔧 Controle de versão com Git</li>
   </ul>
+
+  <br/>
 
   <h3>🌸 Soft Skills</h3>
-  <ul>
-    <li>Comunicação Clara</li>
-    <li>Trabalho em Equipe</li>
-    <li>Empatia & Escuta Ativa</li>
-    <li>Organização e Planejamento</li>
-    <li>Facilidade em Aprender</li>
+  <ul style="list-style: none; padding: 0;">
+    <li>💬 Comunicação Clara</li>
+    <li>🤝 Trabalho em Equipe</li>
+    <li>💖 Empatia & Escuta Ativa</li>
+    <li>📋 Organização e Planejamento</li>
+    <li>🚀 Facilidade em Aprender</li>
   </ul>
+
 </div>
 
 ---
