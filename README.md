@@ -30,8 +30,6 @@
 - 🎮 Desenvolvo jogos e apps web  
 - 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
 - 🎨 Curto criar UIs modernas e simples  
-- 🌸 Amante de animes e coisas fofas  
-- 😴 Adoro uma soneca estilo Pokémon  
 
 </div>
 
