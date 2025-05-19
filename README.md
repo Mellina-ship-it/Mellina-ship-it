@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VV26b9rg8g/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/3o7btR8F8RhdLQ3vU4/giphy.gif" width="200"/>
+  <img src="./pikachu-unscreen.gif" width="100"/> <!-- Pikachu fofo adicionado aqui -->
 </div>
 
 ---
@@ -76,8 +77,8 @@
 ### 🌸 Onde me encontrar
 <div align="center" style="background-color: #2A0F14; padding:15px; border-radius:20px; margin:10px">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
-[![Gmail](https://img.shields.io/badge/-Gmail-FF1493?style=for-the-flat&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-FF1493?style=for-the-flat&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-flat&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1)
 
 </div>
