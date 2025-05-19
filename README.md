@@ -25,9 +25,9 @@
 
 ### 🐰 Sobre mim
 - 💖 Estudante de Ciências da Computação  
-- 🌟 Faço jogos e sites com carinho  
+- 🌟 Faço jogos e sites 
 - 🧁 Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
-- 🌸 Amo criar interfaces fofas e intuitivas  
+- 🌸 Amo criar interfaces funcionais e intuitivas  
 - 🎀 Escrevo código limpo e funcional com atenção aos detalhes  
 
 ---
