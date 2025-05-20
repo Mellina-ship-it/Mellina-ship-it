@@ -73,10 +73,10 @@ Tenho experiência com diversas tecnologias e ferramentas (veja os ícones acima
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" alt="Mellina's GitHub Stats" />
-  <br/> <!-- Adiciona quebra de linha -->
+     <!-- Espaço entre os cards -->
   <!-- Most Used Languages (Standard Layout) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" alt="Mellina's Most Used Languages" />
-  <br/> <!-- Adiciona quebra de linha -->
+  <br/> <!-- Quebra de linha para a Streak -->
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mellina-ship-it&streak_theme=pink&dates=FFB6C1&currStreakLabel=FF69B4&fire=FF1493&ring=FF69B4&sideLabels=FFB6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&background=4B1A1F&border=5D2E46&hide_border=true" height="170" alt="Mellina's GitHub Streak" />
 </div>
