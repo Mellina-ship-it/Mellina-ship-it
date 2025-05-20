@@ -54,7 +54,7 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
   <img src="https://img.shields.io/badge/-L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-FFB6C1?style=for-the-badge&logo=logic&logoColor=white" /> <!-- Ícone genérico para lógica -->
 </div>
 
-#### 🤝 Soft Skills (Habilidades Comportamentais)
+#### 🤝 Soft Skills 
 
 - Comunicação Clara e Eficaz 🗣️
 - Trabalho em Equipe e Colaboração 💡
