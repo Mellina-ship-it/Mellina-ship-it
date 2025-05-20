@@ -108,17 +108,18 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
   <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/mellina-bizinoto-618081227/">
-  <img src="https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
 <a href="https://www.instagram.com/mpadua__?igsh=OTh4d2N3cWRmYms5&utm_source=qr">
   <img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
 </a>
 <a href="mailto:bizinoto.mellina@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 <a href="https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1">
-  <img src="https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
 </a>
 
 </div>
+
 
