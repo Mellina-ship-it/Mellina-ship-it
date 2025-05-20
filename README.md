@@ -45,7 +45,7 @@
 
 ### 🌸 Habilidades
 
-Minhas habilidades se dividem entre o conhecimento técnico e as competências interpessoais que me ajudam a colaborar e inovar.
+Minhas habilidades se dividem entre o conhecimento técnico e as competências interpessoais que me ajudam a colaborar e a inovar.
 
 #### 🛠️ Hard Skills (Habilidades Técnicas)
 
@@ -102,19 +102,17 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
 
 ---
 
-### 💖 Hobbies e Interesses
-
-- 🎮 Adoro jogar **[Nome de algum jogo ou gênero]**
-- 🎵 Curto ouvir **[Gênero musical ou artista]**
-- 🖌️ Gosto de criar designs **[Tipo de design, se aplicável]** e UI/UX
-
----
-
 ### 🌸 Onde me encontrar
 <div align="center">
 
+<a href="https://github.com/Mellina-ship-it">
+  <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" height="40" />
+</a>
 <a href="https://www.linkedin.com/in/mellina-bizinoto-618081227/">
   <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+<a href="https://www.instagram.com/mpadua__?igsh=OTh4d2N3cWRmYms5&utm_source=qr">
+  <img src="https://img.shields.io/badge/-Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
 </a>
 <a href="mailto:bizinoto.mellina@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
