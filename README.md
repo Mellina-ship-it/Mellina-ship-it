@@ -35,32 +35,6 @@
 
 ---
 
-### 📊 Hard Skills & Soft Skills
-
-#### 🔧 Hard Skills
-
-| Habilidade     | Nível |
-|----------------|-------|
-| React          | ██████████░░ 90% |
-| Node.js        | █████████░░░ 80% |
-| C#             | ████████░░░░ 75% |
-| MySQL          | ████████░░░░ 75% |
-| HTML/CSS       | ██████████░░ 90% |
-| Tailwind CSS   | █████████░░░ 85% |
-| JavaScript     | ██████████░░ 90% |
-
-#### 🌸 Soft Skills
-
-| Habilidade             | Nível |
-|------------------------|-------|
-| Comunicação            | ██████████░░ 90% |
-| Trabalho em equipe     | ██████████░░ 90% |
-| Organização            | █████████░░░ 85% |
-| Criatividade           | █████████░░░ 85% |
-| Resolução de problemas | █████████░░░ 85% |
-
----
-
 ### 🔥 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" />
