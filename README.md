@@ -49,13 +49,19 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
 
 #### 🛠️ Hard Skills (Habilidades Técnicas)
 
-Tenho experiência com diversas tecnologias e ferramentas (veja os ícones acima na seção Tech Stack). As linguagens, frameworks e áreas que mais domino e utilizo no dia a dia são:
-
-- **Linguagens:** C#, JavaScript (Node.js)
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS
-- **Backend:** C#, Node.js, Desenvolvimento de APIs RESTful
-- **Banco de Dados:** MySQL
-- **Outros:** Princípios de UI/UX Design, Lógica de Programação, Estrutura de Dados Básicas
+<div align="center">
+  <img src="https://img.shields.io/badge/-C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-APIs-FF69B4?style=for-the-badge&logo=graphql&logoColor=white" /> <!-- Usei GraphQL como ícone genérico para API -->
+  <img src="https://img.shields.io/badge/-MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white" /> <!-- Usei Figma como ícone para UI/UX -->
+  <img src="https://img.shields.io/badge/-L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-FFB6C1?style=for-the-badge&logo=logic&logoColor=white" /> <!-- Ícone genérico para lógica -->
+</div>
 
 #### 🤝 Soft Skills (Habilidades Comportamentais)
 
@@ -93,6 +99,14 @@ Tenho experiência com diversas tecnologias e ferramentas (veja os ícones acima
   *Sistema completo para agendamentos de petshop com login, dashboard e gestão.* 🐈
 
 </div>
+
+---
+
+### 💖 Hobbies e Interesses
+
+- 🎮 Adoro jogar **[Nome de algum jogo ou gênero]**
+- 🎵 Curto ouvir **[Gênero musical ou artista]**
+- 🖌️ Gosto de criar designs **[Tipo de design, se aplicável]** e UI/UX
 
 ---
 
