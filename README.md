@@ -9,7 +9,7 @@
 ---
 
 ### 🌸 Tech Stack
-<div align="center" style="background-color: #2A0F14; padding:15px; border-radius:20px; margin:10px">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
@@ -25,13 +25,11 @@
 ---
 
 ### 🎀 Sobre mim
-<div style="background-color: #2A0F14; padding:20px; border-radius:15px; color: #FFB6C1">
 
 - 👩‍💻 Estudante de Ciências da Computação  
 - 🎮 Desenvolvo jogos e apps web  
 - 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS, Tailwind)  
 - 🎨 Curto criar UIs modernas e simples  
-</div>
 
 ---
 
@@ -57,7 +55,7 @@
 ---
 
 ### 🌸 Onde me encontrar
-<div align="center" style="background-color: #2A0F14; padding:20px; border-radius:20px; margin:10px">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mellina-bizinoto-618081227/">
   <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
