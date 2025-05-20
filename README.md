@@ -34,14 +34,6 @@
 
 ---
 
-### ✨ Aprendendo Agora
-
-- 📚 Atualmente focada em aprofundar meus conhecimentos em **Java, React, Cloud e DevOps**
-- ☁️ Explorando **Python, Java e C/C++**
-- 📊 Melhorando minhas habilidades em **C# e MySQL**
-
----
-
 ### 🌸 Habilidades
 
 Minhas habilidades se dividem entre o conhecimento técnico e as competências interpessoais que me ajudam a colaborar e a inovar.
