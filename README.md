@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFB6C1¢er=true&vCenter=true&lines=Desenvolvedora+Fullstack;🌸+C%23,+JS+e+Node.js;🌸+React,+API+e+UI/UX;🌸+Ship+it+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFB6C1&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;🌸+C%23,+JS+e+Node.js;🌸+React,+API+e+UI/UX;🌸+Ship+it+🚀" />
 </p>
 
----
 
 ### 🌸 Tech Stack
 <div align="center">
@@ -115,10 +114,11 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
   <img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
 </a>
 <a href="mailto:bizinoto.mellina@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 <a href="https://youtube.com/@mbspadua?si=j4HN7W6gvdU3bWp1">
   <img src="https://img.shields.io/badge/-YouTube-FFB6C1?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
 </a>
 
 </div>
+
