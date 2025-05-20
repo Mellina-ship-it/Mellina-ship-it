@@ -43,11 +43,28 @@
 
 ---
 
-### 💖 Hobbies e Interesses
+### 🌸 Habilidades
 
-- 🎮 Adoro jogar **[Nome de algum jogo ou gênero]**
-- 🎵 Curto ouvir **[Gênero musical ou artista]**
-- 🖌️ Gosto de criar designs **[Tipo de design, se aplicável]** e UI/UX
+Minhas habilidades se dividem entre o conhecimento técnico e as competências interpessoais que me ajudam a colaborar e inovar.
+
+#### 🛠️ Hard Skills (Habilidades Técnicas)
+
+Tenho experiência com diversas tecnologias e ferramentas (veja os ícones acima na seção Tech Stack). As linguagens, frameworks e áreas que mais domino e utilizo no dia a dia são:
+
+- **Linguagens:** C#, JavaScript (Node.js)
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS
+- **Backend:** C#, Node.js, Desenvolvimento de APIs RESTful
+- **Banco de Dados:** MySQL
+- **Outros:** Princípios de UI/UX Design, Lógica de Programação, Estrutura de Dados Básicas
+
+#### 🤝 Soft Skills (Habilidades Comportamentais)
+
+- Comunicação Clara e Eficaz 🗣️
+- Trabalho em Equipe e Colaboração 💡
+- Resolução Criativa de Problemas 🤔
+- Adaptabilidade e Vontade de Aprender 🌱
+- Proatividade e Organização 📋
+- Empatia e Foco na Experiência do Usuário ✨
 
 ---
 
