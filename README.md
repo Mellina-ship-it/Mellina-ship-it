@@ -1,9 +1,9 @@
 <h1 align="center">
-  Oi, eu sou a Mellina 🌸
+  Olá, eu sou a Mellina 🌸
 </h1>
 
 <p align="center">
-  Olá! Sou uma entusiasta do desenvolvimento fullstack com paixão por criar experiências digitais vibrantes e intuitivas. Bem-vindo(a) ao meu cantinho no GitHub! ✨
+  Olá! Sou uma entusiasta do desenvolvimento fullstack com paixão por criar experiências digitais vibrantes. Bem-vindo(a) ao meu perfil no GitHub! ✨
 </p>
 
 <p align="center">
