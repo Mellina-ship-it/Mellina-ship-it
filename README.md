@@ -18,6 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />&nbsp;
 
 </div>
 
@@ -28,12 +29,11 @@
 
 - 👩‍💻 Estudante de Ciências da Computação  
 - 🎮 Desenvolvo jogos e apps web  
-- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS)  
+- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS, Tailwind)  
 - 🎨 Curto criar UIs modernas e simples  
 </div>
 
 ---
-
 
 ### 🔥 GitHub Stats
 <div align="center">
