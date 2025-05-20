@@ -37,9 +37,9 @@
 
 ### ✨ Aprendendo Agora
 
-- 📚 Atualmente focada em aprofundar meus conhecimentos em **[Nome da Tecnologia/Framework que você está aprendendo]**
-- ☁️ Explorando **[Algum conceito, como Cloud, DevOps, etc.]**
-- 📊 Melhorando minhas habilidades em **[Área específica, como Estruturas de Dados, Algoritmos, etc.]**
+- 📚 Atualmente focada em aprofundar meus conhecimentos em **Java, React, Cloud e DevOps**
+- ☁️ Explorando **Python, Java e C/C++**
+- 📊 Melhorando minhas habilidades em **C# e MySQL**
 
 ---
 
@@ -93,14 +93,6 @@ Tenho experiência com diversas tecnologias e ferramentas (veja os ícones acima
   *Sistema completo para agendamentos de petshop com login, dashboard e gestão.* 🐈
 
 </div>
-
----
-
-### 💖 Hobbies e Interesses
-
-- 🎮 Adoro jogar **[Nome de algum jogo ou gênero]**
-- 🎵 Curto ouvir **[Gênero musical ou artista]**
-- 🖌️ Gosto de criar designs **[Tipo de design, se aplicável]** e UI/UX
 
 ---
 
