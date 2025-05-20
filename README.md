@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  Olá! Sou uma entusiasta do desenvolvimento fullstack com paixão por criar experiências digitais vibrantes e intuitivas. Bem-vindo(a) ao meu cantinho no GitHub! ✨
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFB6C1¢er=true&vCenter=true&lines=Desenvolvedora+Fullstack;🌸+C%23,+JS+e+Node.js;🌸+React,+API+e+UI/UX;🌸+Ship+it+🚀" />
 </p>
 
@@ -31,10 +35,31 @@
 
 ---
 
-### 🔥 GitHub Stats
+### ✨ Aprendendo Agora
+
+- 📚 Atualmente focada em aprofundar meus conhecimentos em **[Nome da Tecnologia/Framework que você está aprendendo]**
+- ☁️ Explorando **[Algum conceito, como Cloud, DevOps, etc.]**
+- 📊 Melhorando minhas habilidades em **[Área específica, como Estruturas de Dados, Algoritmos, etc.]**
+
+---
+
+### 💖 Hobbies e Interesses
+
+- 🎮 Adoro jogar **[Nome de algum jogo ou gênero]**
+- 🎵 Curto ouvir **[Gênero musical ou artista]**
+- 🖌️ Gosto de criar designs **[Tipo de design, se aplicável]** e UI/UX
+
+---
+
+### 🔥 Minha Jornada no Código
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" alt="Mellina's GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=4B1A1F&border_radius=10&border_color=5D2E46" height="170" alt="Mellina's Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mellina-ship-it&streak_theme=pink&dates=FFB6C1&currStreakLabel=FF69B4&fire=FF1493&ring=FF69B4&sideLabels=FFB6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&background=4B1A1F&border=5D2E46&hide_border=true" height="170" alt="Mellina's GitHub Streak" />
 </div>
 
 ---
