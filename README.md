@@ -89,6 +89,10 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
 - 🐾 **[AuMiauVet](https://github.com/Mellina-ship-it/AuMiauVet)**  
   *Sistema completo para agendamentos de petshop com login, dashboard e gestão.* 🐈
 
+ - 🏫 **[Projeto Integrador - Instituto Criativo](https://github.com/2025-1-MCC2/Projeto1)**  
+  *Sistema de gestão interna para uma ONG real. O projeto do **Grupo 1** foi **selecionado pela empresa parceira** como o melhor da turma no semestre.* 🎓
+
+
 </div>
 
 ---
