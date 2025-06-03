@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Olá! Sou uma entusiasta do desenvolvimento fullstack com paixão por criar experiências digitais vibrantes. Bem-vindo(a) ao meu perfil no GitHub! ✨
+  Sou uma entusiasta do desenvolvimento fullstack com paixão por criar experiências digitais vibrantes. Bem-vindo(a) ao meu perfil no GitHub! ✨
 </p>
 
 <p align="center">
@@ -29,9 +29,8 @@
 
 - 👩‍💻 Estudante de Ciências da Computação  
 - 🎮 Desenvolvo jogos e apps web  
-- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS, Tailwind)  
-- 🎨 Curto criar UIs modernas e simples  
-
+- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS, Tailwind)
+  
 ---
 
 ### 🌸 Habilidades
