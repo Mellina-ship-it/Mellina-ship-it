@@ -83,15 +83,18 @@ Minhas habilidades se dividem entre o conhecimento técnico e as competências i
 ### 🧩 Últimos Projetos
 <div style="background-color: #2A0F14; padding:20px; border-radius:15px; color: #FFB6C1; margin:15px">
 
-- 🎮 **[Além do Túnel](https://github.com/Mellina-ship-it/Alem_do_tunel)**  
-  *Jogo interativo com finais diferentes, baseado em escolhas.* 🌸
+- 🎮 <a href="https://github.com/Mellina-ship-it/Alem_do_tunel" target="_blank"><b>Além do Túnel</b></a>  
+  <i>Jogo interativo com finais diferentes, baseado em escolhas.</i> 🌸
 
-- 🐾 **[AuMiauVet](https://github.com/Mellina-ship-it/AuMiauVet)**  
-  *Sistema completo para agendamentos de petshop com login, dashboard e gestão.* 🐈
+- 🐾 <a href="https://github.com/Mellina-ship-it/AuMiauVet" target="_blank"><b>AuMiauVet</b></a>  
+  <i>Sistema completo para agendamentos de petshop com login, dashboard e gestão.</i> 🐈
 
- - 🏫 **[Projeto Integrador - Instituto Criativo](https://github.com/2025-1-MCC2/Projeto1)**  
-  *Sistema de gestão interna para uma ONG real. O projeto do meu grupo (**Grupo 1**) foi **selecionado pela empresa parceira** como o melhor da turma no semestre.* 🎓
+- 🏫 <a href="https://github.com/2025-1-MCC2/Projeto1" target="_blank"><b>Projeto Integrador – Instituto Criativo</b></a>  
+  <i>Sistema de gestão interna para uma ONG real.</i>  
+  <strong>Projeto do Grupo 1</strong>, escolhido pela empresa parceira como destaque do semestre. 🎓
 
+- 🎯 <a href="https://github.com/2024-2-MCC1/Projeto1" target="_blank"><b>Jogo Educativo ODS</b></a>  
+  <i>Projeto Integrador do 1º semestre, um jogo em Unity com mini games educativos sobre os Objetivos de Desenvolvimento Sustentável (ODS).</i> 🎮🌍
 
 </div>
 
