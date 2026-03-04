@@ -29,7 +29,7 @@
 
 - 👩‍💻 Estudante de Ciências da Computação  
 - 🎮 Desenvolvo jogos e apps web  
-- 🛠️ Backend (C#, Node.js, MySQL) e frontend (React, HTML/CSS, Tailwind)
+- 🛠️ Backend (C#, Node.js, MySQL, Python) e frontend (React, HTML/CSS, Tailwind)
   
 ---
 
