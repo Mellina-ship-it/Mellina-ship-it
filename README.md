@@ -99,7 +99,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mellina-ship-it&show_icons=true&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF&bg_color=2a0a12&border_radius=15&border_color=FF69B4&hide_border=false" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&title_color=FFB6C1&text_color=FFFFFF&bg_color=2a0a12&border_radius=15&border_color=FF69B4" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellina-ship-it&layout=compact&title_color=FFB6C1&text_color=FFFFFF&bg_color=2a0a12&border_radius=15&border_color=FF69B4&langs_count=8&card_width=320" height="160" width="350" />
 
 <br/><br/>
 
