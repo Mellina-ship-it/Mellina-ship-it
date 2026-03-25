@@ -9,7 +9,7 @@
 <div align="center">
 
 ```
-
+🌸✨ 彡°🌸 ✿ 彡🌸°✨🌸
 ```
 
 </div>
@@ -137,10 +137,10 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mellina-ship-it)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mpadua__)
-[![Gmail](https://img.shields.io/badge/-Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C084B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellina-bizinoto-618081227/)
+[![Instagram](https://img.shields.io/badge/-Instagram-A78BCC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mpadua__)
+[![Gmail](https://img.shields.io/badge/-Gmail-7EB8E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bizinoto.mellina@gmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-60A5FA?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbspadua)
 
 </div>
 
