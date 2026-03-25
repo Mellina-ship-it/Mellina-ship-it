@@ -1,24 +1,17 @@
 <div align="center">
 
 <!-- SVG Header com ondas animadas e sakura -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=Mellina%20🌸&fontSize=60&fontColor=fff&fontAlignY=45&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%E5%BD%A1%C2%B0%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%C2%B0%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=fff&fontAlignY=45&animation=twinkling" />
 
 </div>
 
-<!-- Ondas animadas com flores sakura via SVG inline -->
-<div align="center">
 
-```
-                                                        🌸✨ 彡°🌸 ✿ 彡🌸°✨🌸
-```
-
-</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=22&color=FFB6C1&center=true&vCenter=true&lines=Desenvolvedora+Fullstack+💻;C%23+%7C+Node.js+%7C+React+🌸;UI%2FUX+com+amor+e+café+☕;Ship+it+sempre!+🚀&width=500&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=22&color=FFB6C1&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;C%23+%7C+Node.js+%7C+React+🌸;UI%2FUX+com+amor+e+café+☕&width=500&height=50" />
 
 </div>
 
