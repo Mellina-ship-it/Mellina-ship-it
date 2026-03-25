@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Header com ondas animadas e sakura -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=Mellina%20🌸&fontSize=60&fontColor=fff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ship%20it%20🚀&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=Mellina%20🌸&fontSize=60&fontColor=fff&fontAlignY=45&animation=twinkling" />
 
 </div>
 
@@ -118,11 +118,12 @@
 <div align="center">
 
 | 🎮 | Projeto |
-|:---:|:---|:---|
-| 🌸 | [**Além do Túnel**](https://github.com/Mellina-ship-it/Alem_do_tunel)|
-| 🐾 | [**AuMiauVet**](https://github.com/Mellina-ship-it/AuMiauVet)|
-| 🏫 | [**Instituto Criativo**](https://github.com/2025-1-MCC2/Projeto1)|
-| 🎨 | [**ABC Arte Pinturas e Serviços**](https://abcartepinturaseservicos.com.br/)|
+|:---:|:---|
+| 🌸 | [**Além do Túnel**](https://github.com/Mellina-ship-it/Alem_do_tunel) |
+| 🐾 | [**AuMiauVet**](https://github.com/Mellina-ship-it/AuMiauVet) |
+| 🏫 | [**Instituto Criativo**](https://github.com/2025-1-MCC2/Projeto1) |
+| 🎯 | [**Jogo Educativo ODS**](https://github.com/2024-2-MCC1/Projeto1) |
+| 🎨 | [**AB Arte Pinturas e Serviços**](https://abcartepinturaseservicos.com.br/) |
 
 </div>
 
