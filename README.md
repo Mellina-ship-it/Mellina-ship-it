@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🌸 Sobre mim
+### 🌸 Sobre mim 🌸
 
 </div>
 
