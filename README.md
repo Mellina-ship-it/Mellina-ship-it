@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Header com ondas animadas e sakura -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%E5%BD%A1%C2%B0%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%C2%B0%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=fff&fontAlignY=45&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%20%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=fff&fontAlignY=45&animation=twinkling" />
 
 </div>
 
