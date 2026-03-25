@@ -76,9 +76,9 @@
 
 <div align="center">
 
-| 🗣️ Comunicação Clara | 💡 Trabalho em Equipe | 🤔 Resolução Criativa |
+| Comunicação Clara | Trabalho em Equipe | Resolução Criativa |
 |:---:|:---:|:---:|
-| 🌱 Vontade de Aprender | 📋 Proatividade | ✨ Foco no Usuário |
+| Vontade de Aprender | Proatividade | Foco no Usuário |
 
 </div>
 
