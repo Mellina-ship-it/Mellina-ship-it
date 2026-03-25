@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Header com ondas animadas e sakura -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%20%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=ffffff&fontAlignY=45&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%20%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=ffffff&fontAlignY=45&animation=twinkling" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-### 🌸 Soft Skills 🌸
+### 🌸 Soft Skills
 
 </div>
 
@@ -125,7 +125,7 @@
 <!-- ONDAS ANIMADAS via capsule-render -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14&height=80&section=header&text=🌸+Onde+me+encontrar+🌸&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB6C1,100:FF69B4&height=80&section=header&text=🌸+Onde+me+encontrar+🌸&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -138,7 +138,7 @@
 </div>
 
 <!-- Footer com onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=120&section=footer&animation=twinkling&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=120&section=footer&animation=twinkling" />
 
 <!-- Contador de visitas -->
 <div align="center">
