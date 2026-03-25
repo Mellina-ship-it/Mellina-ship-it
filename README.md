@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=22&color=FFB6C1&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;C%23+%7C+Node.js+%7C+React+🌸;UI%2FUX+com+amor+e+café+☕&width=500&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=22&color=FFB6C1&center=true&vCenter=true&lines=Desenvolvedora+Fullstack;C%23+%7C+Node.js+%7C🌸+React+🌸;UI%2FUX&width=500&height=50" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🌸 Sobre mim
+### 🌸 Sobre mim 🌸
 
 </div>
 
