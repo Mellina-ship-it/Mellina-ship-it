@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Header com ondas animadas e sakura -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%20%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=FFB6C1&fontAlignY=45&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=200&section=header&text=%F0%9F%8C%B8%E2%9C%A8%20%F0%9F%8C%B8%20Mellina%20%F0%9F%8C%B8%20%E2%9C%A8%F0%9F%8C%B8&fontSize=35&fontColor=ffffff&fontAlignY=45&animation=twinkling" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🌸 Sobre mim 🌸
+### 🌸 Sobre mim
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-### 🌸 Soft Skills
+### 🌸 Soft Skills 🌸
 
 </div>
 
@@ -138,7 +138,7 @@
 </div>
 
 <!-- Footer com onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=120&section=footer&animation=twinkling&reversal=true" />
 
 <!-- Contador de visitas -->
 <div align="center">
