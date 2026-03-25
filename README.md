@@ -70,7 +70,7 @@
 
 <div align="center">
 
-### 🌸 Soft Skills
+### 🌸 Soft Skills 🌸
 
 </div>
 
