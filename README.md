@@ -117,7 +117,7 @@
 
 <div align="center">
 
-| 🎮 | Projeto | Descrição |
+| 🎮 | Projeto |
 |:---:|:---|:---|
 | 🌸 | [**Além do Túnel**](https://github.com/Mellina-ship-it/Alem_do_tunel)|
 | 🐾 | [**AuMiauVet**](https://github.com/Mellina-ship-it/AuMiauVet)|
