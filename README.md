@@ -119,11 +119,10 @@
 
 | 🎮 | Projeto | Descrição |
 |:---:|:---|:---|
-| 🌸 | [**Além do Túnel**](https://github.com/Mellina-ship-it/Alem_do_tunel) | Jogo interativo com múltiplos finais baseado em escolhas |
-| 🐾 | [**AuMiauVet**](https://github.com/Mellina-ship-it/AuMiauVet) | Sistema completo para agendamentos de petshop |
-| 🏫 | [**Instituto Criativo**](https://github.com/2025-1-MCC2/Projeto1) | Gestão interna para ONG — **destaque do semestre** 🏆 |
-| 🎯 | [**Jogo Educativo ODS**](https://github.com/2024-2-MCC1/Projeto1) | Mini games em Unity sobre Objetivos de Desenvolvimento Sustentável |
-| 🎨 | [**AB Arte Pinturas e Serviços**](https://abcartepinturaseservicos.com.br/) | Site que desenvolvi para o meu pai — empresa de pinturas e serviços 🖌️💛 |
+| 🌸 | [**Além do Túnel**](https://github.com/Mellina-ship-it/Alem_do_tunel)|
+| 🐾 | [**AuMiauVet**](https://github.com/Mellina-ship-it/AuMiauVet)|
+| 🏫 | [**Instituto Criativo**](https://github.com/2025-1-MCC2/Projeto1)|
+| 🎨 | [**ABC Arte Pinturas e Serviços**](https://abcartepinturaseservicos.com.br/)|
 
 </div>
 
