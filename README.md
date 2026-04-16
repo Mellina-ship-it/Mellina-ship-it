@@ -28,12 +28,12 @@
 <td>
 
 ```
-👩‍💻  Estudante de Ciências da Computação
-🎮  Desenvolvo jogos e apps web
-🌸  Apaixonada por UI/UX e experiências bonitas
-🛠️  Backend: C#, Node.js, MySQL, Python
-🎨  Frontend: React, HTML/CSS, TailwindCSS
-🚀  Always shipping something new!
+💻  Estudante de Ciência da Computação  
+👾  Gosto de criar jogos e aplicações web  
+🖼️  Curto bastante UI/UX e interfaces bem feitas  
+🛠️  Trabalho com C#, Node.js, SQL e Python  
+🎨  Uso React, HTML/CSS e Tailwind no front-end
+🚀  Sempre tentando construir algo novo
 ```
 
 </td>
