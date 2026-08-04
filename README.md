@@ -3,6 +3,7 @@
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=200&section=header&text=Mellina%20Bizinoto&fontSize=35&fontColor=ffffff&fontAlignY=45&animation=twinkling"
+  alt="Mellina Bizinoto"
 />
 
 </div>
@@ -11,6 +12,7 @@
 
 <img
   src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=21&color=FF69B4&center=true&vCenter=true&lines=Desenvolvedora+Full+Stack;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Front-End+%7C+Back-End+%7C+UI%2FUX&width=600&height=50"
+  alt="Desenvolvedora Full Stack"
 />
 
 </div>
@@ -82,74 +84,6 @@ Atualmente, busco ampliar meus conhecimentos em **desenvolvimento de software, d
 | Comunicação | Trabalho em equipe | Resolução de problemas |
 |:---:|:---:|:---:|
 | Aprendizado contínuo | Proatividade | Foco no usuário |
-
-</div>
-
----
-
-<div align="center">
-
-### Estatísticas do GitHub
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mellina-ship-it&theme=radical"
-  width="90%"
-  alt="Resumo do perfil de Mellina no GitHub"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mellina-ship-it&theme=radical"
-  height="180"
-  alt="Repositórios por linguagem"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mellina-ship-it&theme=radical"
-  height="180"
-  alt="Linguagens com mais commits"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mellina-ship-it&theme=radical"
-  height="180"
-  alt="Estatísticas do perfil"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mellina-ship-it&theme=radical&utcOffset=-3"
-  height="180"
-  alt="Horários mais produtivos"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Mellina-ship-it&theme=radical&background=2A0A12&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&sideLabels=FFB6C1&dates=FFB6C1&border=FF69B4&border_radius=15&locale=pt_BR"
-  height="180"
-  alt="Sequência de contribuições no GitHub"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### Projetos em destaque
-
-| Projeto | Acesso |
-|:---|:---:|
-| **Além do Túnel** | [Ver projeto](https://github.com/Mellina-ship-it/Alem_do_tunel) |
-| **AuMiauVet** | [Ver projeto](https://github.com/Mellina-ship-it/AuMiauVet) |
-| **Instituto Criativo** | [Ver projeto](https://github.com/2025-1-MCC2/Projeto1) |
-| **Jogo Educativo ODS** | [Ver projeto](https://github.com/2024-2-MCC1/Projeto1) |
-| **AB Arte Pinturas e Serviços** | [Visitar site](https://abcartepinturaseservicos.com.br/) |
 
 </div>
 
